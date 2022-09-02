@@ -16,6 +16,7 @@ google maps integration
 population 
 leadership
 job opportunities portal
+landmarks
 
 would  you like to  to contribute to this project? here are the steps to guide you:
 
