@@ -10,11 +10,12 @@ searchBtn.addEventListener("click", () => {
   let countyName = countyInput.value;
   if(countyName !==""){
   let changedInput = countyName[0].toUpperCase() + countyName.substring(1)
-  let finalURL = `https://kenda-bot.github.io/jsonapi/db.json`;
+  let finalURL ='https://kenda-bot.github.io/jsonapi/db.json';
   fetch(finalURL)
     .then((response) => response.json())
     .then((counties) => {
-      let countyArray=counties.find(element=>element.name === changedInput);
+      console.log(counties.counties);
+      let countyArray=counties.counties.find(element=>element.name === changedInput);
       console.log(countyArray);
     
         result.innerHTML= `<h2>${countyArray.name} </h2>
