@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded', (event) => {
+window.addEventListener('DOMContentLoaded',(event) => {
 
 let searchBtn = document.getElementById("search-btn");
 let countyInput = document.getElementById("county-input");
@@ -10,7 +10,7 @@ searchBtn.addEventListener("click", () => {
   let countyName = countyInput.value;
   if(countyName !==""){
   let changedInput = countyName[0].toUpperCase() + countyName.substring(1)
-  let finalURL = `http://localhost:3000/counties`;
+  let finalURL = `https://kenda-bot.github.io/jsonapi/db.json`;
   fetch(finalURL)
     .then((response) => response.json())
     .then((counties) => {
@@ -38,7 +38,5 @@ result.innerText=""
 document.getElementById("county-input").value=""
 document.getElementById("county-input").placeholder="Enter a county name"
  })
- window.addEventListener('DOMContentLoaded', (event) => {
-  console.log('DOM fully loaded and parsed');
-});
+ 
 });
