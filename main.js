@@ -1,14 +1,20 @@
+window.addEventListener('DOMContentLoaded', (event) => {
+
 let searchBtn = document.getElementById("search-btn");
 let countyInput = document.getElementById("county-input");
 let result =document.getElementById("result");
 let title = document.getElementsByClassName("county-title")
+let nextBtn=document.getElementById("Next")
+let clearBtn=document.getElementById("clear")
 searchBtn.addEventListener("click", () => {
   let countyName = countyInput.value;
+  if(countyName !==""){
+  let changedInput = countyName[0].toUpperCase() + countyName.substring(1)
   let finalURL = `http://localhost:3000/counties`;
   fetch(finalURL)
     .then((response) => response.json())
     .then((counties) => {
-      let countyArray=counties.find(element=>element.name == countyInput.value)
+      let countyArray=counties.find(element=>element.name === changedInput);
       console.log(countyArray);
     
         result.innerHTML= `<h2>${countyArray.name} </h2>
@@ -23,12 +29,16 @@ searchBtn.addEventListener("click", () => {
           .split(",")
           .join(", ")}</span>
         `;
-    })
-        .catch(() => {
-          if (countyName.length === 0) {
-            result.innerHTML = `<h3>The input field cannot be empty!</h3>`;
-          } else {
-            result.innerHTML = `<h3>Please enter a valid county name.</h3>`;
-          }
-        });
-    });
+  }
+
+    )}
+})
+ clearBtn.addEventListener('click',()=>{
+result.innerText=""
+document.getElementById("county-input").value=""
+document.getElementById("county-input").placeholder="Enter a county name"
+ })
+ window.addEventListener('DOMContentLoaded', (event) => {
+  console.log('DOM fully loaded and parsed');
+});
+});

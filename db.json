@@ -2,6 +2,7 @@
     "counties":
 [
     {
+        "id":1,
         "name": "Baringo",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Baringo_County.png",
         "capital": "Kabarnet",
@@ -18,6 +19,7 @@
         
     },
     {
+        "id":2,
         "name": "Bomet",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Bomet_County.png/120px-Flag_of_Bomet_County.png",
         "capital": "Bomet",
@@ -31,6 +33,7 @@
         ]
     },
     {
+        "id":3,
         "name": "Bungoma",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-bung.gif",
         "capital": "Bungoma",
@@ -48,6 +51,7 @@
         ]
     },
     {
+        "id":4,
         "name": "Busia",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Busia_County.png/120px-Flag_of_Busia_County.png",
         "capital": "Busia",
@@ -62,6 +66,7 @@
         ]
     },
     {
+        "id":5,
         "name": "Elgeyo-Marakwet",
         "flag":"https://commons.wikimedia.org/wiki/File:Elgeyo_Marakwet_Flag.png",
         "capital": "Iten",
@@ -74,6 +79,7 @@
         ]
     },
     {
+        "id":6,
         "name": "Embu",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-embu1.gif",
         "capital": "Embu",
@@ -86,6 +92,7 @@
         ]
     },
     {
+        "id":7,
         "name": "Garissa",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-gari2.gif",
         "capital": "Garissa",
@@ -100,6 +107,7 @@
         ]
     },
     {
+        "id":8,
         "name": "Homa Bay",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Homa_Bay_County.png/120px-Flag_of_Homa_Bay_County.png",
         "capital": "Homa Bay",
@@ -116,6 +124,7 @@
         ]
     },
     {
+        "id":9,
         "name": "Isiolo",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-isi.gif",
         "capital": "Isiolo",
@@ -130,6 +139,7 @@
         ]
     },
     {
+        "id":10,
         "name": "Kajiado",
         "flag": "https://www.nyongesasande.com/wp-content/uploads/2022/04/Kajiado-County-Flag.gif",
         "code": 34,
@@ -142,6 +152,7 @@
         ]
     },
     {
+        "id":11,
         "name": "Kakamega",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-kaka.gif",
         "capital": "Kakamega",
@@ -163,6 +174,7 @@
         ]
     },
     {
+        "id":12,
         "name": "Kericho",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-keri.gif",
         "capital": "Kericho",
@@ -177,6 +189,7 @@
         ]
     },
     {
+        "id":13,
         "name": "Kiambu",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kiambu_County_Flag.svg/120px-Kiambu_County_Flag.svg.png",
         "capital": "Kiambu",
@@ -197,6 +210,7 @@
         ]
     },
     {
+        "id":14,
         "name": "Kilifi",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Kilifi_County.png/120px-Flag_of_Kilifi_County.png",
         "capital": "Kilifi",
@@ -212,6 +226,7 @@
         ]
     },
     {
+        "id":15,
         "name": "Kirinyaga",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-kir1.gif",
         "capital": "Kerugoya/Kutus",
@@ -225,6 +240,7 @@
         ]
     },
     {
+        "id":16,
         "name": "Kisii",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-kisii.gif",
         "capital": "Kisii",
@@ -234,6 +250,7 @@
         ]
     },
     {
+        "id":17,
         "name": "Kisumu",
         "capital": "Kisumu",
         "code": 42,
@@ -248,6 +265,7 @@
         ]
     },
     {
+        "id":18,
         "name": "Kitui",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Kitui_County.jpg/120px-Flag_of_Kitui_County.jpg",
         "capital": "Kitui",
@@ -271,6 +289,7 @@
         ]
     },
     {
+        "id":19,
         "name": "Kwale",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kwale_County_Flag.svg/120px-Kwale_County_Flag.svg.png",
         "capital": "Kwale",
@@ -283,6 +302,7 @@
         ]
     },
     {
+        "id":20,
         "name": "Laikipia",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Laikipia_County.png/120px-Flag_of_Laikipia_County.png",
         "capital": "Rumuruti",
@@ -296,6 +316,7 @@
         ]
     },
     {
+        "id":21,
         "name": "Lamu",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lamu_County_Flag.png/120px-Lamu_County_Flag.png",
         "capital": "Lamu",
@@ -306,6 +327,7 @@
         ]
     },
     {
+        "id":22,
         "name": "Machakos",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Machakos_County.png/120px-Flag_of_Machakos_County.png",
         "capital": "Machakos",
@@ -321,6 +343,7 @@
         ]
     },
     {
+        "id":23,
         "name": "Makueni",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-maku.gif",
         "capital": "Wote",
@@ -335,6 +358,7 @@
         ]
     },
     {
+        "id":24,
         "name": "Mandera",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Mandera_County%2C_Kenya.svg/120px-Flag_of_Mandera_County%2C_Kenya.svg.png",
         "capital": "Mandera",
@@ -349,6 +373,7 @@
         ]
     },
     {
+        "id":25,
         "name": "Marsabit",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Marsabit_County.png/120px-Flag_of_Marsabit_County.png",
         "capital": "Marsabit",
@@ -361,6 +386,7 @@
         ]
     },
     {
+        "id":26,
         "name": "Meru",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Meru_County.png/120px-Flag_of_Meru_County.png",
         "capital": "Meru",
@@ -378,6 +404,7 @@
         ]
     },
     {
+        "id":27,
         "name": "Migori",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-migo.gif",
         "capital": "Migori",
@@ -395,6 +422,7 @@
         ]
     },
     {
+        "id":28,
         "name": "Mombasa",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mombasa_flag.png/120px-Mombasa_flag.png",
         "capital": "Mombasa City",
@@ -409,6 +437,7 @@
         ]
     },
     {
+        "id":29,
         "name": "Murang'a",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-mura.gif",
         "capital": "Murang'a",
@@ -425,6 +454,7 @@
         ]
     },
     {
+        "id":30,
         "name": "Nairobi",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Nairobi.svg/120px-Flag_of_Nairobi.svg.png",
         "capital": "Nairobi City",
@@ -450,6 +480,7 @@
         ]
     },
     {
+        "id":31,
         "name": "Nakuru",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-nak.gif",
         "capital": "Nakuru",
@@ -469,6 +500,7 @@
         ]
     },
     {
+        "id":32,
         "name": "Nandi",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Contea_di_Nandi_flag.gif/120px-Contea_di_Nandi_flag.gif",
         "capital": "Kapsabet",
@@ -483,6 +515,7 @@
         ]
     },
     {
+        "id":33,
         "name": "Narok",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Narok_County_Flag_border.jpg/120px-Narok_County_Flag_border.jpg",
         "capital": "Narok",
@@ -497,6 +530,7 @@
         ]
     },
     {
+        "id":34,
         "name": "Nyamira",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-nya.gif",
         "capital": "Nyamira",
@@ -510,6 +544,7 @@
         ]
     },
     {
+        "id":35,
         "name": "Nyandarua",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_Nyandarua_County.png/120px-Flag_of_Nyandarua_County.png",
         "capital": "Ol Kalou",
@@ -523,6 +558,7 @@
         ]
     },
     {
+        "id":36,
         "name": "Nyeri",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nyeri_County_Border_Flag.jpg/120px-Nyeri_County_Border_Flag.jpg",
         "capital": "Nyeri",
@@ -539,6 +575,7 @@
         ]
     },
     {
+        "id":37,
         "name": "Samburu",
         "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Samburu_County.png/120px-Flag_of_Samburu_County.png",
         "capital": "Maralal",
@@ -550,6 +587,7 @@
         ]
     },
     {
+        "id":38,
         "name": "Siaya",
         "capital": "Siaya",
         "code": 41,
@@ -563,6 +601,7 @@
         ]
     },
     {
+        "id":39,
         "name": "Taita-Taveta",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Taita_Taveta_County.png",
         "capital": "Voi",
@@ -575,6 +614,7 @@
         ]
     },
     {
+        "id":40,
         "name": "Tana River",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-tana.gif",
         "capital": "Hola",
@@ -586,6 +626,7 @@
         ]
     },
     {
+        "id":41,
         "name": "Tharaka-Nithi",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-thara.gif",
         "capital": "Chuka",
@@ -600,6 +641,7 @@
         ]
     },
     {
+        "id":42,
         "name": "Trans-Nzoia",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-tn.gif",
         "capital": "Kitale",
@@ -613,6 +655,7 @@
         ]
     },
     {
+        "id":43,
         "name": "Turkana",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-turk.gif",
         "capital": "Lodwar",
@@ -626,6 +669,7 @@
         ]
     },
     {
+        "id":44,
         "name": "Uasin Gishu",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-ug.gif",
         "capital": "Eldoret",
@@ -640,6 +684,7 @@
         ]
     },
     {
+        "id":45,
         "name": "Vihiga",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-vihig.gif",
         "capital": "Vihiga",
@@ -653,6 +698,7 @@
         ]
     },
     {
+        "id":46,
         "name": "Wajir",
         "flag": "https://www.crwflags.com/fotw/images/k/ke-wajir.gif",
         "capital": "Wajir",
@@ -667,6 +713,7 @@
         ]
     },
     {
+        "id":47,
         "name": "West Pokot",
         "flag": "https://www.crwflags.com/fotw/images/k/ke)pokw.jpg",
         "capital": "Kapenguria",

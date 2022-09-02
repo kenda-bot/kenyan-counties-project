@@ -93,4 +93,23 @@
     font-weight: 400;
     color:red;
   }
+  #Next{
+    font-size: 1em;
+    background-color: blue;
+    padding: 0.8em 0;
+    border: none;
+    border-radius: 1.5em;
+    width: 15%;
+    margin-top: 10%;
+  }
+  #clear{
+    font-size: 1em;
+    background-color: blue;
+    padding: 0.8em 0;
+    border: none;
+    border-radius: 1.5em;
+    width: 15%;
+    margin-top: 10%;
+    margin-left: 90%;
+  }
   
