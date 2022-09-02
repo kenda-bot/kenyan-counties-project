@@ -1,0 +1,682 @@
+{
+    "counties":
+[
+    {
+        "name": "Baringo",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Baringo_County.png",
+        "capital": "Kabarnet",
+        "code": 30,
+        "sub_counties": [
+            "Baringo central",
+            "Baringo north",
+            "Baringo south",
+            "Eldama ravine",
+            "Mogotio",
+            "Tiaty"
+        ]
+     
+        
+    },
+    {
+        "name": "Bomet",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Bomet_County.png/120px-Flag_of_Bomet_County.png",
+        "capital": "Bomet",
+        "code": 36,
+        "sub_counties": [
+            "Bomet central",
+            "Bomet east",
+            "Chepalungu",
+            "Konoin",
+            "Sotik"
+        ]
+    },
+    {
+        "name": "Bungoma",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-bung.gif",
+        "capital": "Bungoma",
+        "code": 39,
+        "sub_counties": [
+            "Bumula",
+            "Kabuchai",
+            "Kanduyi",
+            "Kimilil",
+            "Mt Elgon",
+            "Sirisia",
+            "Tongaren",
+            "Webuye east",
+            "Webuye west"
+        ]
+    },
+    {
+        "name": "Busia",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Busia_County.png/120px-Flag_of_Busia_County.png",
+        "capital": "Busia",
+        "code": 40,
+        "sub_counties": [
+            "Budalangi",
+            "Butula",
+            "Funyula",
+            "Nambele",
+            "Teso North",
+            "Teso South"
+        ]
+    },
+    {
+        "name": "Elgeyo-Marakwet",
+        "flag":"https://commons.wikimedia.org/wiki/File:Elgeyo_Marakwet_Flag.png",
+        "capital": "Iten",
+        "code": 28,
+        "sub_counties": [
+            "Keiyo north",
+            "Keiyo south",
+            "Marakwet east",
+            "Marakwet west"
+        ]
+    },
+    {
+        "name": "Embu",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-embu1.gif",
+        "capital": "Embu",
+        "code": 14,
+        "sub_counties": [
+            "Manyatta",
+            "Mbeere north",
+            "Mbeere south",
+            "Runyenjes"
+        ]
+    },
+    {
+        "name": "Garissa",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-gari2.gif",
+        "capital": "Garissa",
+        "code": 7,
+        "sub_counties": [
+            "Daadab",
+            "Fafi",
+            "Garissa",
+            "Hulugho",
+            "Ijara",
+            "Lagdera balambala"
+        ]
+    },
+    {
+        "name": "Homa Bay",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Homa_Bay_County.png/120px-Flag_of_Homa_Bay_County.png",
+        "capital": "Homa Bay",
+        "code": 43,
+        "sub_counties": [
+            "Homabay town",
+            "Kabondo",
+            "Karachwonyo",
+            "Kasipul",
+            "Mbita",
+            "Ndhiwa",
+            "Rangwe",
+            "Suba"
+        ]
+    },
+    {
+        "name": "Isiolo",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-isi.gif",
+        "capital": "Isiolo",
+        "code": 11,
+        "sub_counties": [
+            "Central",
+            "Garba tula",
+            "Kina",
+            "Merit",
+            "Oldonyiro",
+            "Sericho"
+        ]
+    },
+    {
+        "name": "Kajiado",
+        "flag": "https://www.nyongesasande.com/wp-content/uploads/2022/04/Kajiado-County-Flag.gif",
+        "code": 34,
+        "sub_counties": [
+            "Isinya.",
+            "Kajiado Central.",
+            "Kajiado North.",
+            "Loitokitok.",
+            "Mashuuru."
+        ]
+    },
+    {
+        "name": "Kakamega",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-kaka.gif",
+        "capital": "Kakamega",
+        "code": 37,
+        "sub_counties": [
+            "Butere",
+            "Kakamega central",
+            "Kakamega east",
+            "Kakamega north",
+            "Kakamega south",
+            "Khwisero",
+            "Lugari",
+            "Lukuyani",
+            "Lurambi",
+            "Matete",
+            "Mumias",
+            "Mutungu",
+            "Navakholo"
+        ]
+    },
+    {
+        "name": "Kericho",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-keri.gif",
+        "capital": "Kericho",
+        "code": 35,
+        "sub_counties": [
+            "Ainamoi",
+            "Belgut",
+            "Bureti",
+            "Kipkelion east",
+            "Kipkelion west",
+            "Soin sigowet"
+        ]
+    },
+    {
+        "name": "Kiambu",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kiambu_County_Flag.svg/120px-Kiambu_County_Flag.svg.png",
+        "capital": "Kiambu",
+        "code": 22,
+        "sub_counties": [
+            "Gatundu north",
+            "Gatundu south",
+            "Githunguri",
+            "Juja",
+            "Kabete",
+            "Kiambaa",
+            "Kiambu",
+            "Kikuyu",
+            "Limuru",
+            "Ruiru",
+            "Thika town",
+            "lari"
+        ]
+    },
+    {
+        "name": "Kilifi",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Kilifi_County.png/120px-Flag_of_Kilifi_County.png",
+        "capital": "Kilifi",
+        "code": 3,
+        "sub_counties": [
+            "Genzw",
+            "Kaloleni",
+            "Kilifi north",
+            "Kilifi south",
+            "Magarini",
+            "Malindi",
+            "Rabai"
+        ]
+    },
+    {
+        "name": "Kirinyaga",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-kir1.gif",
+        "capital": "Kerugoya/Kutus",
+        "code": 20,
+        "sub_counties": [
+            "Kirinyaga central",
+            "Kirinyaga east",
+            "Kirinyaga west",
+            "Mwea east",
+            "Mwea west"
+        ]
+    },
+    {
+        "name": "Kisii",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-kisii.gif",
+        "capital": "Kisii",
+        "code": 45,
+        "sub_counties": [
+            
+        ]
+    },
+    {
+        "name": "Kisumu",
+        "capital": "Kisumu",
+        "code": 42,
+        "sub_counties": [
+            "Kisumu central",
+            "Kisumu east ",
+            "Kisumu west",
+            "Mohoroni",
+            "Nyakach",
+            "Nyando",
+            "Seme"
+        ]
+    },
+    {
+        "name": "Kitui",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Kitui_County.jpg/120px-Flag_of_Kitui_County.jpg",
+        "capital": "Kitui",
+        "code": 15,
+        "sub_counties": [
+            "Ikutha",
+            "Katulani",
+            "Kisasi",
+            "Kitui central",
+            "Kitui west ",
+            "Lower yatta",
+            "Matiyani",
+            "Migwani",
+            "Mutitu",
+            "Mutomo",
+            "Muumonikyusu",
+            "Mwingi central",
+            "Mwingi east",
+            "Nzambani",
+            "Tseikuru"
+        ]
+    },
+    {
+        "name": "Kwale",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kwale_County_Flag.svg/120px-Kwale_County_Flag.svg.png",
+        "capital": "Kwale",
+        "code": 2,
+        "sub_counties": [
+            "Kinango",
+            "Lungalunga",
+            "Msambweni",
+            "Mutuga"
+        ]
+    },
+    {
+        "name": "Laikipia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Laikipia_County.png/120px-Flag_of_Laikipia_County.png",
+        "capital": "Rumuruti",
+        "code": 31,
+        "sub_counties": [
+            "Laikipia central",
+            "Laikipia east",
+            "Laikipia north",
+            "Laikipia west ",
+            "Nyahururu"
+        ]
+    },
+    {
+        "name": "Lamu",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lamu_County_Flag.png/120px-Lamu_County_Flag.png",
+        "capital": "Lamu",
+        "code": 5,
+        "sub_counties": [
+            "Lamu East",
+            "Lamu West"
+        ]
+    },
+    {
+        "name": "Machakos",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Machakos_County.png/120px-Flag_of_Machakos_County.png",
+        "capital": "Machakos",
+        "code": 16,
+        "sub_counties": [
+            "Kathiani",
+            "Machakos town",
+            "Masinga",
+            "Matungulu",
+            "Mavoko",
+            "Mwala",
+            "Yatta"
+        ]
+    },
+    {
+        "name": "Makueni",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-maku.gif",
+        "capital": "Wote",
+        "code": 17,
+        "sub_counties": [
+            "Kaiti",
+            "Kibwei west",
+            "Kibwezi east",
+            "Kilome",
+            "Makueni",
+            "Mbooni"
+        ]
+    },
+    {
+        "name": "Mandera",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Mandera_County%2C_Kenya.svg/120px-Flag_of_Mandera_County%2C_Kenya.svg.png",
+        "capital": "Mandera",
+        "code": 9,
+        "sub_counties": [
+            "Banissa",
+            "Lafey",
+            "Mandera East",
+            "Mandera North",
+            "Mandera South",
+            "Mandera West"
+        ]
+    },
+    {
+        "name": "Marsabit",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Marsabit_County.png/120px-Flag_of_Marsabit_County.png",
+        "capital": "Marsabit",
+        "code": 10,
+        "sub_counties": [
+            "Laisamis",
+            "Moyale",
+            "North hor",
+            "Saku"
+        ]
+    },
+    {
+        "name": "Meru",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Meru_County.png/120px-Flag_of_Meru_County.png",
+        "capital": "Meru",
+        "code": 12,
+        "sub_counties": [
+            "Buuri",
+            "Igembe central",
+            "Igembe north",
+            "Igembe south",
+            "Imenti central",
+            "Imenti north",
+            "Imenti south",
+            "Tigania east",
+            "Tigania west"
+        ]
+    },
+    {
+        "name": "Migori",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-migo.gif",
+        "capital": "Migori",
+        "code": 44,
+        "sub_counties": [
+            "Awendo",
+            "Kuria east",
+            "Kuria west",
+            "Mabera",
+            "Ntimaru",
+            "Rongo",
+            "Suna east",
+            "Suna west",
+            "Uriri"
+        ]
+    },
+    {
+        "name": "Mombasa",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mombasa_flag.png/120px-Mombasa_flag.png",
+        "capital": "Mombasa City",
+        "code": 1,
+        "sub_counties": [
+            "Changamwe",
+            "Jomvu",
+            "Kisauni",
+            "Likoni",
+            "Mvita",
+            "Nyali"
+        ]
+    },
+    {
+        "name": "Murang'a",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-mura.gif",
+        "capital": "Murang'a",
+        "code": 21,
+        "sub_counties": [
+            "Gatanga",
+            "Kahuro",
+            "Kandara",
+            "Kangema",
+            "Kigumo",
+            "Kiharu",
+            "Mathioya",
+            "Murang’a south"
+        ]
+    },
+    {
+        "name": "Nairobi",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Nairobi.svg/120px-Flag_of_Nairobi.svg.png",
+        "capital": "Nairobi City",
+        "code": 47,
+        "sub_counties": [
+            "Dagoretti North Sub County",
+            "Dagoretti South Sub County ",
+            "Embakasi Central Sub Count",
+            "Embakasi East Sub County",
+            "Embakasi North Sub County ",
+            "Embakasi South Sub County",
+            "Embakasi West Sub County",
+            "Kamukunji Sub County",
+            "Kasarani Sub County ",
+            "Kibra Sub County ",
+            "Lang'ata Sub County ",
+            "Makadara Sub County",
+            "Mathare Sub County ",
+            "Roysambu Sub County ",
+            "Ruaraka Sub County ",
+            "Starehe Sub County ",
+            "Westlands Sub County "
+        ]
+    },
+    {
+        "name": "Nakuru",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-nak.gif",
+        "capital": "Nakuru",
+        "code": 32,
+        "sub_counties": [
+            "Bahati",
+            "Gilgil",
+            "Kuresoi north",
+            "Kuresoi south",
+            "Molo",
+            "Naivasha",
+            "Nakuru town east",
+            "Nakuru town west",
+            "Njoro",
+            "Rongai",
+            "Subukia"
+        ]
+    },
+    {
+        "name": "Nandi",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Contea_di_Nandi_flag.gif/120px-Contea_di_Nandi_flag.gif",
+        "capital": "Kapsabet",
+        "code": 29,
+        "sub_counties": [
+            "Aldai",
+            "Chesumei",
+            "Emgwen",
+            "Mosop",
+            "Nandi hills",
+            "Tindiret"
+        ]
+    },
+    {
+        "name": "Narok",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Narok_County_Flag_border.jpg/120px-Narok_County_Flag_border.jpg",
+        "capital": "Narok",
+        "code": 33,
+        "sub_counties": [
+            "Narok east",
+            "Narok north",
+            "Narok south",
+            "Narok west",
+            "Transmara east",
+            "Transmara west"
+        ]
+    },
+    {
+        "name": "Nyamira",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-nya.gif",
+        "capital": "Nyamira",
+        "code": 46,
+        "sub_counties": [
+            "Borabu",
+            "Manga",
+            "Masaba north",
+            "Nyamira north",
+            "Nyamira south"
+        ]
+    },
+    {
+        "name": "Nyandarua",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_Nyandarua_County.png/120px-Flag_of_Nyandarua_County.png",
+        "capital": "Ol Kalou",
+        "code": 18,
+        "sub_counties": [
+            "Kinangop",
+            "Kipipiri",
+            "Ndaragwa",
+            "Ol Kalou",
+            "Ol joro orok"
+        ]
+    },
+    {
+        "name": "Nyeri",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nyeri_County_Border_Flag.jpg/120px-Nyeri_County_Border_Flag.jpg",
+        "capital": "Nyeri",
+        "code": 19,
+        "sub_counties": [
+            "Kieni east",
+            "Kieni west",
+            "Mathira east",
+            "Mathira west",
+            "Mkurweni",
+            "Nyeri town",
+            "Othaya",
+            "Tetu"
+        ]
+    },
+    {
+        "name": "Samburu",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Samburu_County.png/120px-Flag_of_Samburu_County.png",
+        "capital": "Maralal",
+        "code": 25,
+        "sub_counties": [
+            "Samburu east",
+            "Samburu north",
+            "Samburu west"
+        ]
+    },
+    {
+        "name": "Siaya",
+        "capital": "Siaya",
+        "code": 41,
+        "sub_counties": [
+            "Alego usonga",
+            "Bondo",
+            "Gem",
+            "Rarieda",
+            "Ugenya",
+            "Unguja"
+        ]
+    },
+    {
+        "name": "Taita-Taveta",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Taita_Taveta_County.png",
+        "capital": "Voi",
+        "code": 6,
+        "sub_counties": [
+            "Mwatate",
+            "Taveta",
+            "Voi",
+            "Wundanyi"
+        ]
+    },
+    {
+        "name": "Tana River",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-tana.gif",
+        "capital": "Hola",
+        "code": 4,
+        "sub_counties": [
+            "Bura",
+            "Galole",
+            "Garsen"
+        ]
+    },
+    {
+        "name": "Tharaka-Nithi",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-thara.gif",
+        "capital": "Chuka",
+        "code": 13,
+        "sub_counties": [
+            "Chuka",
+            "Igambangobe",
+            "Maara",
+            "Muthambi",
+            "Tharak north",
+            "Tharaka south"
+        ]
+    },
+    {
+        "name": "Trans-Nzoia",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-tn.gif",
+        "capital": "Kitale",
+        "code": 26,
+        "sub_counties": [
+            "Cherangany",
+            "Endebess",
+            "Kiminini",
+            "Kwanza",
+            "Saboti"
+        ]
+    },
+    {
+        "name": "Turkana",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-turk.gif",
+        "capital": "Lodwar",
+        "code": 23,
+        "sub_counties": [
+            "Loima",
+            "Turkana central",
+            "Turkana east",
+            "Turkana north",
+            "Turkana south"
+        ]
+    },
+    {
+        "name": "Uasin Gishu",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-ug.gif",
+        "capital": "Eldoret",
+        "code": 27,
+        "sub_counties": [
+            "Ainabkoi",
+            "Kapseret",
+            "Kesses",
+            "Moiben",
+            "Soy",
+            "Turbo"
+        ]
+    },
+    {
+        "name": "Vihiga",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-vihig.gif",
+        "capital": "Vihiga",
+        "code": 38,
+        "sub_counties": [
+            "Emuhaya",
+            "Hamisi",
+            "Luanda",
+            "Sabatia",
+            "vihiga"
+        ]
+    },
+    {
+        "name": "Wajir",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke-wajir.gif",
+        "capital": "Wajir",
+        "code": 8,
+        "sub_counties": [
+            "Eldas",
+            "Tarbaj",
+            "Wajir East",
+            "Wajir North",
+            "Wajir South",
+            "Wajir West"
+        ]
+    },
+    {
+        "name": "West Pokot",
+        "flag": "https://www.crwflags.com/fotw/images/k/ke)pokw.jpg",
+        "capital": "Kapenguria",
+        "code": 24,
+        "sub_counties": [
+            "Central Pokot",
+            "North Pokot",
+            "Pokot South",
+            "West Pokot"
+        ]
+    }
+]
+}
