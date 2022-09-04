@@ -25,3 +25,9 @@ Create a branch where you will add changes (git branch -b <branchname>)
 Add the changes (git add .)
 Commit changes (git commit -m"contributing changes")
 Push your changes (git push origin <branchname>)
+
+	Author
+	https://github.com/account
+	
+	Licence informaton
+	https://github.com/kenda-bot/kenyan-counties-project/blob/main/LICENCE.md
